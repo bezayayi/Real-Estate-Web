@@ -2,7 +2,6 @@
 
 #Real Estate
 >
->> A Website for Online Market of grain and mill Products.
 >> Made with HTML, CSS and Javascript, and PHP and mysql
 >
 
